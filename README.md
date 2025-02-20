@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Malware Analysis and Detection System
 ![image](https://github.com/user-attachments/assets/8652a7aa-34f5-49cc-a3a4-dcafaad2db9c)
  
@@ -45,4 +44,3 @@ I would love to connect with like-minded individuals.
 =======
 # app
 Open source react native web app for malware analysis and detection system.
->>>>>>> 2adbbaf7f3648c8d481a0ac8690e091eb90bc33f
