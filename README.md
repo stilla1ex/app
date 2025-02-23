@@ -1,6 +1,6 @@
 # Malware Analysis and Detection System
 ![image](https://github.com/user-attachments/assets/8652a7aa-34f5-49cc-a3a4-dcafaad2db9c)
- 
+  
 ## Overview
 This is a **Malware Analysis and Detection System** that is designed to analyze and detect malicious files. It provides a secure space for examining suspicious file behavior, extracting indicators of compromise, and enhancing cybersecurity defenses by categorising the files according to threat level.
 
