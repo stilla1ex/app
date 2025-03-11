@@ -13,7 +13,7 @@ This is a **Malware Analysis and Detection System** that is designed to analyze 
 
 ## Techologies
 - AWS cloud.
-- Python (Django).
+- Python (Django). 
 - JavaScript.
 - HTML and CSS.
 
